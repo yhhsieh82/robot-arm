@@ -4,6 +4,7 @@
 2. arduino code for the recording of the demostration path and the command of the robot is left at the lab.
 
 3. 操作:
+
 (一)做示範路徑
 -上傳arduino code
 -在command line輸入: python my_lod_motor.py
